@@ -1,4 +1,4 @@
-name: c530-replay
+name: unpaired-binned-spectra-nmf
 channels:
   - conda-forge
 dependencies:
